@@ -1,0 +1,16 @@
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\NiceMenu.exe
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\NiceMenu.deps.json
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\NiceMenu.runtimeconfig.json
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\NiceMenu.runtimeconfig.dev.json
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\NiceMenu.dll
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\ref\NiceMenu.dll
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\bin\Debug\net5.0\NiceMenu.pdb
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.csproj.AssemblyReference.cache
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.AssemblyInfoInputs.cache
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.AssemblyInfo.cs
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.dll
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\ref\NiceMenu.dll
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.pdb
+C:\Users\Magnus\Documents\GitHub\NiceMenu\NiceMenu\obj\Debug\net5.0\NiceMenu.genruntimeconfig.cache
