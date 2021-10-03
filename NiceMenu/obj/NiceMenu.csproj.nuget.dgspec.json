@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Magnus\\Documents\\GitHub\\NiceMenu\\NiceMenu\\NiceMenu.csproj": {}
+    "C:\\Users\\magnu\\Documents\\repos\\ConsoleFileExplorer\\NiceMenu\\NiceMenu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Magnus\\Documents\\GitHub\\NiceMenu\\NiceMenu\\NiceMenu.csproj": {
+    "C:\\Users\\magnu\\Documents\\repos\\ConsoleFileExplorer\\NiceMenu\\NiceMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Magnus\\Documents\\GitHub\\NiceMenu\\NiceMenu\\NiceMenu.csproj",
+        "projectUniqueName": "C:\\Users\\magnu\\Documents\\repos\\ConsoleFileExplorer\\NiceMenu\\NiceMenu.csproj",
         "projectName": "NiceMenu",
-        "projectPath": "C:\\Users\\Magnus\\Documents\\GitHub\\NiceMenu\\NiceMenu\\NiceMenu.csproj",
-        "packagesPath": "C:\\Users\\Magnus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Magnus\\Documents\\GitHub\\NiceMenu\\NiceMenu\\obj\\",
+        "projectPath": "C:\\Users\\magnu\\Documents\\repos\\ConsoleFileExplorer\\NiceMenu\\NiceMenu.csproj",
+        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magnu\\Documents\\repos\\ConsoleFileExplorer\\NiceMenu\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Magnus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
